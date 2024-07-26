@@ -37,17 +37,18 @@ The system also utilizes various Python Libraries (smtplib, reportlab, matplotli
 ## Results & Performance Analysis
 <img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/model_prediction.png" alt="Model Prediction" width="250" height="250"> <img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/performance.png" alt="Performance Analysis" width="550" height="250">
 
-<sub>Model Prediction (L) & Performance Analysis (R)<sub>
+<sub>Model Prediction (Left) & Performance Analysis (Right)<sub>
 
 The 'Automated Brain Disease Diagnosis and Patient Support System' employs a multi-class CNN model with an accuracy rate of 91.3%, elevating brain disease diagnosis accuracy while streamlining patient support.
 ## Citation
 If you found our project helpful, please cite our paper:
 ```bash
 V. L. A, S. N and S. S. R. B. B. L, "Automated Brain Disease Diagnosis and Patient Support System,"
-2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES),
-Chennai, India, 2023, pp. 1-7, doi: 10.1109/ICSES60034.2023.10465514. keywords: {Parkinson's disease;Magnetic resonance imaging;
-Data visualization;Authentication;Stroke (medical condition);Market research;Libraries;Brain disease diagnosis;CNN;
-web application;patient support;statistical data visualization;secure authentication},
+2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical
+Systems (ICSES), Chennai, India, 2023, pp. 1-7, doi: 10.1109/ICSES60034.2023.10465514.
+keywords: {Parkinson's disease;Magnetic resonance imaging;Data visualization;Authentication;
+Stroke (medical condition);Market research;Libraries;Brain disease diagnosis;CNN;web application;
+patient support;statistical data visualization;secure authentication},
 ```
 ## Note
 This repository contains the published [IEEE paper](10.1109/ICSES60034.2023.10465514) detailing the system architecture, methodology, and results. The source code for the application is not included in this repository.
