@@ -14,7 +14,7 @@ Check out the paper at [IEEE Xplore](10.1109/ICSES60034.2023.10465514).
 ## Abstract
 The "Automated Brain Disease Diagnosis and Patient Support System" is a web application that aids hospital administration in the diagnosis of five classes of brain disorders: Alzheimer's Disease, Parkinson's Disease, Brain Tumor, Epilepsy, and Stroke. The application involves radiologists uploading MRI scans for detection through a CNN. After successful diagnosis, the system generates detailed reports with diagnosis results, supportive action measures, patient details, and recommends neuro-specialists. A statistical visualization tool identifies trends in diagnosed brain diseases. Secure OTP-based authentication allows patients to access reports and interact with an AI assistant. React.js is used for the front-end, and Flask, Node.js, Express.js, and MongoDB for the back-end. Various Python libraries and Streamlit are used for email automation, report generation, and data visualization. The system aims to detect a broader spectrum of brain diseases with high accuracy and streamline patient support services, improving healthcare outcomes.
 
-![Neuronum Card](path_to_architecture_image)
+![Neuronum Card](https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/product_card.png)
 
 ## Features
 - **MRI Scan Analysis:** Radiologists can upload MRI scans for automated detection of brain diseases.
@@ -29,14 +29,14 @@ The "Automated Brain Disease Diagnosis and Patient Support System" is a web appl
 - **Visualization:** Streamlit
 
 ## System Architecture
-![System Architecture](path_to_architecture_image)
+![System Architecture](https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/arch.png)
 
 The system's frontend is developed using React.js, while the backend utilizes Flask, Node.js, Express.js, and MongoDB for efficient data handling. Python libraries enable email automation, and Streamlit facilitates statistical data visualization. The proposed system aims to enhance brain disease diagnosis accuracy and streamline patient support services for improved healthcare outcomes. 
 The system also utilizes various Python Libraries (smtplib, reportlab, matplotlib, pandas) for email automation and report generation. 
 
 ## Results & Performance Analysis
 ![model_prediction](path_to_performance_analysis_image)
-![Performance Analysis](path_to_performance_analysis_image)
+<img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/performance.png" alt="Performance Analysis" width="600">
 
 The 'Automated Brain Disease Diagnosis and Patient Support System' employs a multi-class CNN model with an accuracy rate of 91.3%, elevating brain disease diagnosis accuracy while streamlining patient support.
 ## Citation
