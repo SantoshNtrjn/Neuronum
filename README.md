@@ -35,7 +35,7 @@ The system's frontend is developed using React.js, while the backend utilizes Fl
 The system also utilizes various Python Libraries (smtplib, reportlab, matplotlib, pandas) for email automation and report generation. 
 
 ## Results & Performance Analysis
-<img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/model_prediction.png" alt="Model Prediction" width="300" height="300"> <img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/performance.png" alt="Performance Analysis" width="500" height="300">
+<img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/model_prediction.png" alt="Model Prediction" width="300" height="250"> <img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/performance.png" alt="Performance Analysis" width="500" height="250">
 
 <sub>Model Prediction (L) & Performance Analysis (R)<sub>
 
