@@ -44,8 +44,8 @@ The 'Automated Brain Disease Diagnosis and Patient Support System' employs a mul
 If you found our project helpful, please cite our paper:
 ```bash
 V. L. A, S. N and S. S. R. B. B. L, "Automated Brain Disease Diagnosis and Patient Support System,"
-2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical
-Systems (ICSES), Chennai, India, 2023, pp. 1-7, doi: 10.1109/ICSES60034.2023.10465514.
+2023 International Conference on Innovative Computing, Intelligent Communication and Smart
+Electrical Systems (ICSES), Chennai, India, 2023, pp. 1-7, doi: 10.1109/ICSES60034.2023.10465514.
 keywords: {Parkinson's disease;Magnetic resonance imaging;Data visualization;Authentication;
 Stroke (medical condition);Market research;Libraries;Brain disease diagnosis;CNN;web application;
 patient support;statistical data visualization;secure authentication},
