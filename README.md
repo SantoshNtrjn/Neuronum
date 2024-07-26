@@ -7,7 +7,7 @@
 
 Neuronum is an advanced web application designed to aid in the diagnosis and management of five critical brain disorders: Alzheimer's Disease, Parkinson's Disease, Brain Tumor, Epilepsy, and Stroke. Utilizing state-of-the-art Convolutional Neural Networks (CNN), this system assists radiologists in analyzing MRI scans to accurately detect these conditions.
 
-Check out the paper at [IEEE Xplore](10.1109/ICSES60034.2023.10465514).
+Check out the paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/10465514).
 
 *This paper was presented at 2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES)*.
 
@@ -51,7 +51,7 @@ Stroke (medical condition);Market research;Libraries;Brain disease diagnosis;CNN
 patient support;statistical data visualization;secure authentication},
 ```
 ## Note
-This repository contains the published [IEEE paper](10.1109/ICSES60034.2023.10465514) detailing the system architecture, methodology, and results. The source code for the application is not included in this repository.
+This repository contains the published [IEEE paper](https://ieeexplore.ieee.org/document/10465514) detailing the system architecture, methodology, and results. The source code for the application is not included in this repository.
 
 ## Contact
-For more information, please refer to the published paper at [IEEE Xplore](10.1109/ICSES60034.2023.10465514) or contact via [email](mailto:santoshpn03@gmail.com).
+For more information, please refer to the published paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/10465514) or contact via [email](mailto:santoshpn03@gmail.com).
