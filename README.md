@@ -35,8 +35,9 @@ The system's frontend is developed using React.js, while the backend utilizes Fl
 The system also utilizes various Python Libraries (smtplib, reportlab, matplotlib, pandas) for email automation and report generation. 
 
 ## Results & Performance Analysis
-![model_prediction](path_to_performance_analysis_image)
-<img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/performance.png" alt="Performance Analysis" width="600">
+<img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/model_prediction.png" alt="Model Prediction" width="300" height="300"> <img src="https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/performance.png" alt="Performance Analysis" width="600" height="300">
+
+<sub>Model Prediction (L) & Performance Analysis (R)<sub>
 
 The 'Automated Brain Disease Diagnosis and Patient Support System' employs a multi-class CNN model with an accuracy rate of 91.3%, elevating brain disease diagnosis accuracy while streamlining patient support.
 ## Citation
