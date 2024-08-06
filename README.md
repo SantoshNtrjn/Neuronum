@@ -14,7 +14,7 @@ Check out the paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/104655
 ## Abstract
 The "Automated Brain Disease Diagnosis and Patient Support System" is a web application that aids hospital administration in the diagnosis of five classes of brain disorders: Alzheimer's Disease, Parkinson's Disease, Brain Tumor, Epilepsy, and Stroke. The application involves radiologists uploading MRI scans for detection through a CNN. After successful diagnosis, the system generates detailed reports with diagnosis results, supportive action measures, patient details, and recommends neuro-specialists. A statistical visualization tool identifies trends in diagnosed brain diseases. Secure OTP-based authentication allows patients to access reports and interact with an AI assistant. React.js is used for the front-end, and Flask, Node.js, Express.js, and MongoDB for the back-end. Various Python libraries and Streamlit are used for email automation, report generation, and data visualization. The system aims to detect a broader spectrum of brain diseases with high accuracy and streamline patient support services, improving healthcare outcomes.
 
-![Neuronum Card](https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/product_card.png)
+![Neuronum Card](https://github.com/SantoshNtrjn/Neuronum/blob/main/assets/spec_card.png)
 
 ## Features
 - **MRI Scan Analysis:** Radiologists can upload MRI scans for automated detection of brain diseases.
