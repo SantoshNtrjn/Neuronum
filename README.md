@@ -54,4 +54,4 @@ patient support;statistical data visualization;secure authentication},
 This repository contains the published [IEEE paper](https://ieeexplore.ieee.org/document/10465514) detailing the system architecture, methodology, and results. The source code for the application is not included in this repository.
 
 ## Contact
-For more information, please refer to the published paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/10465514) or contact via [email](mailto:santoshpn03@gmail.com).
+For more information related to the code, please refer to the published paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/10465514) or contact via [email](mailto:santoshpn03@gmail.com).
